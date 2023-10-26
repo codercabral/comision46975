@@ -1,3 +1,8 @@
 header{
     background-color: blueviolet;
 }
+
+main{
+    height: 300px;
+    background-color: cadetblue;
+}
